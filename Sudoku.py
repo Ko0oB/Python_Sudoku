@@ -83,7 +83,7 @@ def read_board_from_file(filename):
     return board
 
 
-# --- Główna część programu ---
+# --- Main Program ---
 filename = "sudoku.txt" # C:\\Users\\ if needed
 board = read_board_from_file(filename)
 
