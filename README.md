@@ -6,6 +6,8 @@ This repository contains files with clean Phyton code that can be used to solve 
 - [Sudoku_v02.py](./Sudoku_v02.py) program to solve sudoku v1 + print only solved empty cells.
 - [sudoku.txt](./sudoku.txt) Input for programs with sudoku board.
 
+---
+
 <a name="readme-top"></a>
 <!-- TABLE OF CONTENTS -->
 
@@ -29,16 +31,22 @@ This repository contains files with clean Phyton code that can be used to solve 
 <!-- PROJECT DESCRIPTION -->
 # 📖 Sudoku 9x9 solver <a name="about-project"></a>
 
-The Veterinary PostgreSQL Database Management System is a system designed to manage the data and records of a veterinary clinic. The system is designed to store and manage data related to animals, their owners, appointments, treatments, and medical histories. 
+Programs wrote in Phyton to solve Sudoku puzzle 9x9. Data are taken from external *.txt file and results are presented in console
+
+INPUT:
+
+OUTPUT:
+Sudoku_v01
+Sudoku_v02
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Database</summary>
+  <summary>Phyton</summary>
   <ul>
-    <li><a href="https://www.postgresqltutorial.com/">Postgresql</a></li>
+    <li><a href="https://www.python.org/">Phyton</a></li>
   </ul>
 </details>
 
@@ -49,10 +57,10 @@ The Veterinary PostgreSQL Database Management System is a system designed to man
 
 Features:
 
-- Animal Records: A database of animal records that stores information such as the animal's name, breed, age, gender, and owner information.
-- Owner Records: A database of owner records that stores information such as the owner's name, address, phone number, and email address.
-- Appointment Scheduling: A calendar that allows clinic staff to schedule appointments for animals and track upcoming appointments.
-- Treatment and Medical History Records: A database of treatment and medical history records that stores information such as the treatment type, date, and cost.
+- External file as Sudoku Puzzle board
+- 1 row -> 1 row in Sudoku without commas and other characters
+- '0' -> empty cell
+- with error managment
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,11 +87,8 @@ or
 ```
 
 ### Install
-Install [Relational Database]((https://computer.howstuffworks.com/question599.htm) ) Called **Postgresql**
 
-- Postgresql [Installation](https://www.postgresqltutorial.com/postgresql-getting-started/install-postgresql/) on Window
-- Postgresql [Installation](https://www.postgresqltutorial.com/postgresql-getting-started/install-postgresql-macos/) on MacOS
-- Postgresql [Installation](https://www.postgresqltutorial.com/postgresql-getting-started/install-postgresql-linux/) on Linux
+N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
