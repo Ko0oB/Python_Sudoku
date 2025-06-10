@@ -32,13 +32,7 @@ This repository contains files with clean Phyton code that can be used to solve 
 <!-- PROJECT DESCRIPTION -->
 # 📖 Sudoku 9x9 solver <a name="about-project"></a>
 
-Programs wrote in Phyton to solve Sudoku puzzle 9x9. Data are taken from external *.txt file and results are presented in console
-
-INPUT:
-
-OUTPUT:
-Sudoku_v01
-Sudoku_v02
+Programs written in Phyton to solve Sudoku 9x9. The data is taken from an external *.txt file, and the results are presented in the console.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -108,7 +102,7 @@ N/A
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **GUI? **
+- **GUI?**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
