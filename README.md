@@ -7,6 +7,7 @@ This repository contains files with clean Phyton code that can be used to solve 
 - [sudoku.txt](./sudoku.txt) Input for programs with sudoku board.
 
 ---
+---
 
 <a name="readme-top"></a>
 <!-- TABLE OF CONTENTS -->
@@ -106,8 +107,6 @@ N/A
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 - **GUI? **
 
