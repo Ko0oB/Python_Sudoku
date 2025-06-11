@@ -1,4 +1,4 @@
-# S U D O K U Solver
+# S U D O K U  Solver  
 
 This repository contains files with clean Phyton code that can be used to solve Sudoku 9x9:
 
