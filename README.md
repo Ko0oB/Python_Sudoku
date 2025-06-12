@@ -1,7 +1,6 @@
 # S U D O K U  Solver  
 
 This repository contains files with clean Phyton code that can be used to solve Sudoku 9x9:
-
 - [Sudoku_v01.py](./Sudoku_v01.py) program to solve sudoku v1.
 - [Sudoku_v02.py](./Sudoku_v02.py) program to solve sudoku v1 + print only solved empty cells.
 - [sudoku.txt](./sudoku.txt) Input for programs with sudoku board.
